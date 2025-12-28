@@ -1,8 +1,11 @@
-**⚡ About Me ⚡**
-> D E V E L O P E R
-. . . . . . . . . .
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Developer&fontAlign=50&fontSize=40" />
+> **⚡ About Me ⚡**
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Developer;Product-Focused+Engineer;Building+Scalable+Systems" />
+
+
+
 
 
 I’m a software engineer with a strong product mindset, focused on building real, scalable systems rather than isolated demos. I enjoy owning problems end-to-end — from ideation and architecture to execution, iteration, and deployment.
@@ -21,6 +24,8 @@ From an engineering perspective, I work comfortably across frontend, backend, an
 - Writing clean, maintainable code with long-term extensibility in mind
 
 I approach software development as a craft and a system, not just code. I care deeply about **architecture, clarity, performance, and user impact**. I’m especially interested in projects that sit at the intersection of education, platforms, and developer tooling.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=58A6FF&center=true&vCenter=true&width=1000&lines=Open+to+Ownership-Driven+Engineering+Projects;Collaborating+with+Strong+Engineering+Teams;Building+Systems+That+Scale+and+Last" />
 
 **I’m always open to:**
 - Meaningful open-source collaboration
