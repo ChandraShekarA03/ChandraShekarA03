@@ -1,4 +1,9 @@
 **⚡ About Me ⚡**
+> D E V E L O P E R
+. . . . . . . . . .
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Developer&fontAlign=50&fontSize=40" />
+
 
 I’m a software engineer with a strong product mindset, focused on building real, scalable systems rather than isolated demos. I enjoy owning problems end-to-end — from ideation and architecture to execution, iteration, and deployment.
 At present, I’m actively leading and contributing to multiple production-oriented projects:
