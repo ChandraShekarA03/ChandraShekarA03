@@ -1,65 +1,256 @@
+<div align="center">
 
-> **⚡ About Me ⚡**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,35:0B1220,70:111827,100:1F6FEB&text=CHANDRA%20SHEKAR&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Product%20Engineer%20•%20Full%20Stack%20Developer%20•%20System%20Builder&descAlignY=58&animation=fadeIn"/>
 
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Developer;Product-Focused+Engineer;Building+Scalable+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=950&lines=Building+Scalable+Digital+Experiences;Crafting+Premium+Frontend+Systems;Engineering+Modern+Applications;Design.+Motion.+Engineering."/>
 
+<br/><br/>
 
+<a href="https://github.com/ChandraShekarA03">
+<img src="https://img.shields.io/github/followers/ChandraShekarA03?style=for-the-badge&color=111827&labelColor=0D1117&logo=github&logoColor=white"/>
+</a>
 
+<a href="mailto:achandrashekara03@gmail.com">
+<img src="https://img.shields.io/badge/Contact-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
+<a href="https://chandrashekar03.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-I’m a software engineer with a strong product mindset, focused on building real, scalable systems rather than isolated demos. I enjoy owning problems end-to-end — from ideation and architecture to execution, iteration, and deployment.
-At present, I’m actively leading and contributing to multiple production-oriented projects:
-- **A mobile application for CHRIST Online students**, designed to streamline academic workflows, improve access to information, and deliver a reliable digital experience at scale.
-- **The official website for INBLOOMS 2026**, a large-scale cultural fest at my college, where I’m translating institutional requirements, design systems, and timelines into a polished, maintainable web platform.
-- **My personal engineering portfolio**, built with the Next.js ecosystem, focused on performance, clean architecture, and expressive UI.
-- **A collaborative Next.js project with two other developers**, following structured GitHub workflows, modular design principles, and real-world collaboration practices.
+<a href="https://www.linkedin.com/in/a-chandra-shekar/">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
+</div>
 
-From an engineering perspective, I work comfortably across frontend, backend, and mobile layers, with hands-on experience in:
-- Designing scalable UI systems and component architectures
-- API-driven applications and backend integration
-- Firebase-based authentication, data modeling, and role-based access
-- Version-controlled, collaborative development using GitHub
-- Writing clean, maintainable code with long-term extensibility in mind
+---
 
-I approach software development as a craft and a system, not just code. I care deeply about **architecture, clarity, performance, and user impact**. I’m especially interested in projects that sit at the intersection of education, platforms, and developer tooling.
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=58A6FF&center=true&vCenter=true&width=1000&lines=Open+to+Ownership-Driven+Engineering+Projects;Collaborating+with+Strong+Engineering+Teams;Building+Systems+That+Scale+and+Last" />
+# PRODUCT ENGINEER
 
-**I’m always open to:**
-- Meaningful open-source collaboration
-- Building with strong engineering teams
-- Projects that demand ownership, structure, and technical depth
+Building scalable digital systems with  
+premium interfaces, clean architecture, and motion-driven experiences.
 
+</div>
 
+<br/>
 
->**💡 Tech Stack: 💡**
+<div align="center">
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
+```txt
+SYSTEM STATUS
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+▣ CHRIST PLATFORM          ONLINE
+▣ INBLOOMS 2026            BUILDING
+▣ ENGINEERING PORTFOLIO    ACTIVE
+▣ AI SYSTEMS               RESEARCH
+```
 
+</div>
 
+---
 
-## 📊 GitHub Analytics
+# About
 
-<p align="center">
+I focus on engineering modern digital products that combine scalability, performance, and strong user experience.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChandraShekarA03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+My approach blends:
+- Full stack engineering
+- Product-focused architecture
+- Premium frontend systems
+- Motion-driven interactions
+- Clean and maintainable codebases
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandraShekarA03&layout=compact&theme=tokyonight&hide_border=true" />
+Currently building:
+- A scalable platform for CHRIST Online students
+- The official INBLOOMS 2026 website
+- A high-performance engineering portfolio
+- Collaborative full stack applications using structured Git workflows
 
-</p>
+---
 
-<p align="center">
+# Core Stack
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<div align="center">
 
-</p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,vue,angular,ts,js,nodejs,nestjs,express,firebase,supabase,postgres,mysql,mongodb,kotlin,java,python,dart,flutter,tailwind,threejs,figma,git,github,docker,kubernetes,aws,vercel,netlify,postman,vscode,linux&theme=dark"/>
 
-<p align="center">
+</div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+<br/>
 
-</p>
+<div align="center">
+
+`Next.js` • `React` • `TypeScript` • `Node.js` • `NestJS` • `Firebase` • `PostgreSQL` • `Kotlin` • `Flutter` • `TailwindCSS` • `Three.js` • `Docker`
+
+</div>
+
+---
+
+# Technologies & Tools
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,threejs,html,css,js,ts&theme=dark"/>
+
+</td>
+
+<td align="center" width="33%">
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,firebase,supabase,postgres,mysql,mongodb,graphql&theme=dark"/>
+
+</td>
+
+<td align="center" width="33%">
+
+### Mobile & Tools
+
+<img src="https://skillicons.dev/icons?i=flutter,kotlin,java,python,docker,kubernetes,aws,git,github,figma,postman&theme=dark"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# Engineering Environment
+
+<div align="center">
+
+```txt
+Frontend Systems      → React • Next.js • TailwindCSS • Three.js
+Backend Architecture  → Node.js • NestJS • Firebase • PostgreSQL
+Mobile Development    → Flutter • Kotlin
+Cloud & DevOps        → Docker • Kubernetes • AWS • Vercel
+Design & Workflow     → Figma • GitHub • Postman • VS Code
+```
+
+</div>
+---
+
+# Featured Projects
+
+<div align="center">
+
+| Project | Focus |
+|---|---|
+| CHRIST Online Platform | Student workflows, scalable systems, accessibility |
+| INBLOOMS 2026 | Large-scale event platform with modern UI architecture |
+| Engineering Portfolio | Motion-focused premium frontend engineering |
+| AI Powered Systems | Experimental AI-integrated applications |
+
+</div>
+
+---
+
+# Engineering Focus
+
+<div align="center">
+
+```txt
+Frontend Systems        ██████████
+Backend Architecture    █████████░
+Mobile Engineering      ████████░░
+AI Integrations         ██████░░░░
+Design Systems          █████████░
+```
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChandraShekarA03&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandraShekarA03&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=FFFFFF"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ChandraShekarA03&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChandraShekarA03&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true"/>
+
+</div>
+
+---
+
+# Philosophy
+
+<div align="center">
+
+### Design. Motion. Engineering.
+
+Building systems that feel as good as they perform.
+
+</div>
+
+---
+
+# Currently Exploring
+
+<div align="center">
+
+`Scalable Frontend Systems` • `AI Integrations` • `Realtime Platforms` • `3D Web Experiences` • `Developer Tooling`
+
+</div>
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/a-chandra-shekar">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
+</a>
+
+<a href="https://chandrashekar03.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF"/>
+</a>
+
+<a href="mailto:achandrashekara03@gmail.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ChandraShekarA03&style=for-the-badge&color=1F6FEB"/>
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:050816,35:0B1220,70:111827,100:1F6FEB"/>
