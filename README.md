@@ -39,19 +39,6 @@ premium interfaces, clean architecture, and motion-driven experiences.
 
 <br/>
 
-<div align="center">
-
-```txt
-SYSTEM STATUS
-
-▣ CHRIST PLATFORM          ONLINE
-▣ INBLOOMS 2026            BUILDING
-▣ ENGINEERING PORTFOLIO    ACTIVE
-▣ AI SYSTEMS               RESEARCH
-```
-
-</div>
-
 ---
 
 # About
